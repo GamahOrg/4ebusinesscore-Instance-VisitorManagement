@@ -1,0 +1,31 @@
+﻿
+namespace _4EPlatform.Infrastructure.Helpers
+{
+    public class LoggedInUserProvider
+    {
+        public static Guid GetLoggedInUserId(IHttpContextAccessor httpContextAccessor)
+        {
+            try
+            {
+                var userIdClaim = httpContextAccessor.HttpContext.User.Claims
+                    .SingleOrDefault(c => c.Type == ClaimTypes.NameIdentifier);
+
+                if (userIdClaim != null && Guid.TryParse(userIdClaim.Value, out Guid userId))
+                {
+                    return userId;
+                }
+                else
+                {
+                    return Guid.Empty;
+                }
+
+                throw new UnauthorizedAccessException("User ID claim not found or not valid.");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+                throw new UnauthorizedAccessException("Failed to retrieve logged-in user ID.");
+            }
+        }
+    }
+}

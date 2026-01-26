@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "3eb17e81-ede8-4b02-90a1-3625e695af02",
+    "NameAr": " مقابلات توظيف",
+    "NameEn": "Job interviews"
+  },
+  {
+    "Id": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "NameAr": "دخول / خروج الموظفين خارج ساعات الدوام",
+    "NameEn": "Entry/exit of employees outside working hours"
+  },
+  {
+    "Id": "3eb17e81-ede8-4b02-90a1-3625e695af04",
+    "NameAr": "دخول / خروج غير الموظفين",
+    "NameEn": "Non-employee entry/exit"
+  },
+  {
+    "Id": "3eb17e81-ede8-4b02-90a1-3625e695af05",
+    "NameAr": " زيارة موظف ( اجتماع - مناقشة - مستحقات)",
+    "NameEn": "Employee visit (meeting - discussion - dues)"
+  },
+  {
+    "Id": "3eb17e81-ede8-4b02-90a1-3625e695af06",
+    "NameAr": "زوار مكتب الرئيس",
+    "NameEn": "Visitors to the President's Office"
+  },
+  {
+    "Id": "3eb17e81-ede8-4b02-90a1-3625e695af07",
+    "NameAr": "سبب اخر",
+    "NameEn": "Another reason"
+  }
+]

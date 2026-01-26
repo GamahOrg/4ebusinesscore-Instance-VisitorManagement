@@ -1,0 +1,29 @@
+[
+  {
+    "Id": "3eb17e81-ede8-4b02-90a1-3625e695af15",
+    "Date": "2025-07-02T08:05:00",
+    "VisitorId": "3eb17e81-ede8-4b02-90a1-3625e695af06",
+    "State": 0,
+    "ISTransit": false,
+    "TransitComment": null,
+    "TransitStatus": 0
+  },
+  {
+    "Id": "3eb17e81-ede8-4b02-90a1-3625e695af16",
+    "Date": "2025-07-02T08:05:00",
+    "VisitorId": "3eb17e81-ede8-4b02-90a1-3625e695af07",
+    "State": 0,
+    "ISTransit": false,
+    "TransitComment": null,
+    "TransitStatus": 0
+  },
+  {
+    "Id": "3eb17e81-ede8-4b02-90a1-3625e695af17",
+    "Date": "2025-07-02T08:05:00",
+    "VisitorId": "3eb17e81-ede8-4b02-90a1-3625e695af08",
+    "State": 0,
+    "ISTransit": false,
+    "TransitComment": null,
+    "TransitStatus": 0
+  }
+]

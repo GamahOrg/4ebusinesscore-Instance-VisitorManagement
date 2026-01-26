@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "3eb17e81-ede8-4b02-90a1-3625e695af14",
+    "CarType": "تويوتا",
+    "CarPlateData": "أ ب 1234",
+    "CarColor": "أسود",
+    "CarModel": "كورولا",
+    "Duration": "3 ساعات",
+    "PermissionId": "3eb17e81-ede8-4b02-90a1-3625e695af04",
+    "State": 0
+  },
+  {
+    "Id": "3eb17e81-ede8-4b02-90a1-3625e695af15",
+    "CarType": "تويوتا",
+    "CarPlateData": "أ ب 1234",
+    "CarColor": "أسود",
+    "CarModel": "كورولا",
+    "Duration": "3 ساعات",
+    "PermissionId": "3eb17e81-ede8-4b02-90a1-3625e695af05",
+    "State": 0
+  },
+  {
+    "Id": "3eb17e81-ede8-4b02-90a1-3625e695af16",
+    "CarType": "تويوتا",
+    "CarPlateData": "أ ب 1234",
+    "CarColor": "أسود",
+    "CarModel": "كورولا",
+    "Duration": "3 ساعات",
+    "PermissionId": "3eb17e81-ede8-4b02-90a1-3625e695af06",
+    "State": 0
+  }
+]

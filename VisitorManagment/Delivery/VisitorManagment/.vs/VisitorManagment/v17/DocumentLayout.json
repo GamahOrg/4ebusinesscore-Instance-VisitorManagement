@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4ExplainRepo\\Visitor\\4EBusinessCore-VisitorManagement\\VisitorManagment\\Delivery\\VisitorManagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBE1BCC-2281-4B8D-96E2-05113A8FE2A6}|Src\\API\\VisitorManagment\\VisitorManagment.csproj|d:\\4explainrepo\\visitor\\4ebusinesscore-visitormanagement\\visitormanagment\\delivery\\visitormanagment\\src\\api\\visitormanagment\\visitormanagment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7FBE1BCC-2281-4B8D-96E2-05113A8FE2A6}|Src\\API\\VisitorManagment\\VisitorManagment.csproj|solutionrelative:src\\api\\visitormanagment\\visitormanagment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBE1BCC-2281-4B8D-96E2-05113A8FE2A6}|Src\\API\\VisitorManagment\\VisitorManagment.csproj|d:\\4explainrepo\\visitor\\4ebusinesscore-visitormanagement\\visitormanagment\\delivery\\visitormanagment\\src\\api\\visitormanagment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FBE1BCC-2281-4B8D-96E2-05113A8FE2A6}|Src\\API\\VisitorManagment\\VisitorManagment.csproj|solutionrelative:src\\api\\visitormanagment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBE1BCC-2281-4B8D-96E2-05113A8FE2A6}|Src\\API\\VisitorManagment\\VisitorManagment.csproj|d:\\4explainrepo\\visitor\\4ebusinesscore-visitormanagement\\visitormanagment\\delivery\\visitormanagment\\src\\api\\visitormanagment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FBE1BCC-2281-4B8D-96E2-05113A8FE2A6}|Src\\API\\VisitorManagment\\VisitorManagment.csproj|solutionrelative:src\\api\\visitormanagment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22723E5F-2DF4-4FC5-A9E2-636756AD8421}|Src\\Core\\Infrastructure\\Infrastructure.csproj|d:\\4explainrepo\\visitor\\4ebusinesscore-visitormanagement\\visitormanagment\\delivery\\visitormanagment\\src\\core\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22723E5F-2DF4-4FC5-A9E2-636756AD8421}|Src\\Core\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\core\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\4ExplainRepo\\Visitor\\4EBusinessCore-VisitorManagement\\VisitorManagment\\Delivery\\VisitorManagment\\Src\\API\\VisitorManagment\\appsettings.json",
+              "RelativeDocumentMoniker": "Src\\API\\VisitorManagment\\appsettings.json",
+              "ToolTip": "D:\\4ExplainRepo\\Visitor\\4EBusinessCore-VisitorManagement\\VisitorManagment\\Delivery\\VisitorManagment\\Src\\API\\VisitorManagment\\appsettings.json",
+              "RelativeToolTip": "Src\\API\\VisitorManagment\\appsettings.json",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T09:49:00.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\4ExplainRepo\\Visitor\\4EBusinessCore-VisitorManagement\\VisitorManagment\\Delivery\\VisitorManagment\\Src\\API\\VisitorManagment\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Src\\API\\VisitorManagment\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\4ExplainRepo\\Visitor\\4EBusinessCore-VisitorManagement\\VisitorManagment\\Delivery\\VisitorManagment\\Src\\API\\VisitorManagment\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Src\\API\\VisitorManagment\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-24T07:22:37.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VisitorManagment.csproj",
+              "DocumentMoniker": "D:\\4ExplainRepo\\Visitor\\4EBusinessCore-VisitorManagement\\VisitorManagment\\Delivery\\VisitorManagment\\Src\\API\\VisitorManagment\\VisitorManagment.csproj",
+              "RelativeDocumentMoniker": "Src\\API\\VisitorManagment\\VisitorManagment.csproj",
+              "ToolTip": "D:\\4ExplainRepo\\Visitor\\4EBusinessCore-VisitorManagement\\VisitorManagment\\Delivery\\VisitorManagment\\Src\\API\\VisitorManagment\\VisitorManagment.csproj",
+              "RelativeToolTip": "Src\\API\\VisitorManagment\\VisitorManagment.csproj",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwFUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-24T07:20:40.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "D:\\4ExplainRepo\\Visitor\\4EBusinessCore-VisitorManagement\\VisitorManagment\\Delivery\\VisitorManagment\\Src\\Core\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Src\\Core\\Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "D:\\4ExplainRepo\\Visitor\\4EBusinessCore-VisitorManagement\\VisitorManagment\\Delivery\\VisitorManagment\\Src\\Core\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Src\\Core\\Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-24T07:19:13.565Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

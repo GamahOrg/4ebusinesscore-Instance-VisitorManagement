@@ -1,0 +1,43 @@
+﻿global using _4EPlatform.Infrastructure.Helpers;
+global using _4EPlatForm.Infrastructure.Context;
+global using _4EPlatForm.Infrastructure.Interface;
+global using _4EPlatForm.Infrastructure.Repostories.GenericRepo;
+global using _4EPlatForm.Infrastructure.ResponseDto;
+global using _4EPlatForm.Infrastructure.UnitOfWork;
+global using Domain.Enums;
+global using Domain.Models;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.ChangeTracking;
+global using Microsoft.EntityFrameworkCore.Infrastructure;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using Microsoft.EntityFrameworkCore.Migrations;
+global using Microsoft.EntityFrameworkCore.Storage;
+global using Microsoft.Extensions.DependencyInjection;
+global using Newtonsoft.Json;
+global using System;
+global using System.Collections.Generic;
+global using System.IO;
+global using System.Linq;
+global using System.Linq.Expressions;
+global using System.Reflection;
+global using System.Security.Claims;
+global using System.Threading.Tasks;
+global using _4EPlatform.Domain.Models.Visitor;
+global using _4EPlatform.Domain.Models.Group;
+global using _4EPlatform.Domain.Models.Permission;
+global using _4EPlatform.Domain.Models.VisitorPermissionSteps;
+global using _4EPlatForm.Infrastrucure.Interface;
+global using _4EPlatform.Domain.Models.Attachment;
+global using _4EPlatform.Domain.Models.CancelRequest;
+global using _4EPlatform.Domain.Models.Violation;
+global using _4EPlatform.Domain.Models.LookUpModel;
+global using _4EPlatform.Infrastructure.Configurations;
+global using _4EPlatform.Infrastrucure.Configurations;
+global using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
+global using _4EPlatForm.Infrastrucure.Repostories;
+global using Microsoft.Extensions.Configuration;
+global using System.Collections;
+
+
+
